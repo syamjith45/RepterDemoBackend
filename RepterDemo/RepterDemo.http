@@ -1,0 +1,6 @@
+@RepterDemo_HostAddress = http://localhost:5087
+
+GET {{RepterDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

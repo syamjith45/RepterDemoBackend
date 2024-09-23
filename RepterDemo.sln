@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepterDemo", "RepterDemo\RepterDemo.csproj", "{1BD7ADF1-F8F2-4FBE-A2FC-2A254B619E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD7ADF1-F8F2-4FBE-A2FC-2A254B619E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD7ADF1-F8F2-4FBE-A2FC-2A254B619E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD7ADF1-F8F2-4FBE-A2FC-2A254B619E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD7ADF1-F8F2-4FBE-A2FC-2A254B619E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993E242E-A130-4BCF-AF80-338BF36BC808}
+	EndGlobalSection
+EndGlobal
